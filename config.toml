@@ -1,0 +1,12 @@
+baseURL = 'http://leo.resier.net/'
+languageCode = 'en-us'
+title = "Leo's Blog"
+theme = 'hugo-theme-cleanwhite'
+paginate = 5
+
+[params]
+  header_image = "img/myPicture.jpg"
+
+[[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
