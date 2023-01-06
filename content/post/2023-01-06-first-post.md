@@ -11,7 +11,7 @@ layout:      multilang-page
 image:       "/img/20230101NewYear.jpg"
 fr-page:     "/translations/2023-01-06-first-post-fr.md"
 multilingual: true
-draft:       true
+draft:        false
 ---
 
 ## Gelukkig Nieuwjaar
