@@ -18,4 +18,4 @@ draft:        false
 
 Op nieuwjaar was ik 10,5 maanden oud.
 
-Papa en mama wouden niet dat ik tot middernacht opbleef, maar ze hebben me toch wakker gemaakt voor een nieuwjaarskus en een lekkere glas champa... fles melk om het nieuwe jaar te vieren.
+Papa en mama wouden niet dat ik tot middernacht opbleef, maar ze hebben me toch wakker gemaakt voor een nieuwjaarskus en een lekker glas champa... fles melk om het nieuwe jaar te vieren.
