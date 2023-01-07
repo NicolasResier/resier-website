@@ -1,6 +1,7 @@
 ---
 layout: multilang-page
 fr-page: "/translations/index-fr.md"
+image: "/img/aboutMe.jpg"
 multilingual: true
 ---
 
