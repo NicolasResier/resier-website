@@ -4,6 +4,9 @@ title = "Leo's Blog"
 theme = 'hugo-theme-cleanwhite'
 paginate = 5
 
+[outputs]
+home = ["HTML", "RSS"]
+
 [params]
   header_image = "img/myPicture.jpg"
   omit_categories = true
@@ -12,3 +15,6 @@ paginate = 5
 [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
+
+[params.social]
+rss = true 

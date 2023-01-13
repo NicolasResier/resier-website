@@ -3,6 +3,7 @@ layout: multilang-page
 fr-page: "/translations/index-fr.md"
 image: "/img/aboutMe.jpg"
 multilingual: true
+date:        2022-02-16
 ---
 
 ## Over Mij
